@@ -1,6 +1,6 @@
 ### Problem A: Greatest Common Divisor
 
-Nurlan is helping his younger brother with a homework problem: given two positive integers a and b, find their **greatest common divisor** — the largest positive integer that divides both of them.
+Nurlan is helping his younger brother with a homework problem: given two positive integers *a* and *b*, find their **greatest common divisor** — the largest positive integer that divides both of them.
 
 His brother wrote a straightforward program: check every integer from min(a,b) down to 1 and stop at the first common divisor. For gcd(12,18) it works fine — at most 12 checks. For gcd(1000000007,1000000009) it already has to check about a billion numbers, and for the values in this problem it would never finish at all.
 
