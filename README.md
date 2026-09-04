@@ -1,5 +1,11 @@
 # Algorithms and Data Structures
 
+<p align="left">
+	<img src="assets/KBTU.avif" alt="University Logo" width="220" />
+</p>
+
+---
+
 ## Course Overview
 
 - **Course:** Algorithms and Data Structures
