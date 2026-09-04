@@ -1,7 +1,5 @@
 # Algorithms and Data Structures
 
----
-
 ## Course Overview
 
 - **Course:** Algorithms and Data Structures
