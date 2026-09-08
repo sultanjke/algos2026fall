@@ -40,7 +40,7 @@ Head to the - [Syllabus](https://drive.google.com/file/d/1pbyjvGR65fOw6Z95ydFnRj
 | **10** | **L10. Graph Representation and BFS** | Adjacency list and matrix; Edge List; BFS | 15.11 23:59 | - | http://ejudge.kz/new-client?contest_id=210 |
 | **11** | **L11. Graph Traversal and Sorting** | DFS and Topological Sort **(Endterm Week)** | 22.11 23:59 | - | http://ejudge.kz/new-client?contest_id=211 |
 | **12** | **L12. Spanning Tree Algorithms** | Kruskal and prim algorithms | 29.11 23:59 | - | http://ejudge.kz/new-client?contest_id=212 |
-| **13** | **L13. Shortest Path Algorithms** | Dijkstra, Floyd-Warshall and Bellman-Ford algorithms | - | - | - |
+| **13** | **L13. Shortest Path Algorithms** | Dijkstra, Floyd-Warshall and Bellman-Ford algorithms | N/A | N/A | N/A |
 
 ---
 
