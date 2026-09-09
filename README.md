@@ -20,7 +20,7 @@
 
 This repository would be updating with laboratory works solutions for the course **Algorithms and Data Structures** at **Kazakh-British Technical University** for the Fall 2026 semester, aligned with the official syllabus. Each problem includes solutions and links to the E-judge platform where tasks were completed.
 
-Head to the - [Syllabus](https://drive.google.com/file/d/1pbyjvGR65fOw6Z95ydFnRjpkrUFO-DVX/view?usp=sharing), to meet the course plan.
+Head to the - [Syllabus](https://docs.google.com/document/d/1qcf2EJtcSoFkrl-JhMWaRN1Z7xpyVQLS/edit?pli=1), to meet the course plan.
 
 ---
 
