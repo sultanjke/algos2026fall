@@ -71,3 +71,5 @@ In the first example a\=1. It has only one positive divisor, so it is not prime.
 In the second example 10\=2⋅5 is composite.
 
 In the third and fourth examples 2 and 97 are prime.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab01/c.py)

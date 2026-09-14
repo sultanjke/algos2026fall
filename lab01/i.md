@@ -83,3 +83,5 @@ In the first test case of the example the deck \[2,1,4,3\] is processed as follo
 -   put the card 3 aside: \[4\];
 
 -   move four cards to the bottom — the only remaining card just returns to its place — and put the card 4 aside: the deck is empty.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab01/i.py)

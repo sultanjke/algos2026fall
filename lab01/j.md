@@ -38,3 +38,5 @@ Nursik 5
 ### Notes
 
 In the example Boris holds \[1,3,5,7,9\] and Nursik holds \[2,4,6,8,0\]. Nursik wins the first four moves (2\>1, 4\>3, 6\>5, 8\>7), and on the fifth move Boris’s last card 9 loses to 0 by the special rule. Boris is left without cards, so Nursik wins after 5 moves.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab01/j.py)

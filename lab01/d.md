@@ -31,3 +31,5 @@ Print a single integer — the n\-th prime number.
 The prime numbers in increasing order are 2,3,5,7,11,13,…, so the 5\-th of them is 11.
 
 Do not confuse the index with the value: the 100\-th prime number is 541 and the 1000\-th is 7919. Every answer fits into a 32-bit integer.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab01/d.py)

@@ -77,3 +77,5 @@ In the first example `sbaabsss` is the concatenation of `sbaabs` and `ss`. Here 
 In the third example `baab` is built as xsx with x\=b around the balanced string `aa`.
 
 The strings `sbabasss` and `abpa` of the second and fourth examples cannot be built by these rules.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab01/g.py)

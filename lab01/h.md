@@ -49,3 +49,5 @@ In the first example the queue is \[2,1,5,8,3\]. The first two people have nobod
 In the second example the ages increase, so every person sees the one standing directly in front of them.
 
 Equal ages do not count. For the queue \[3,1,2,2\] the answer is \[−1,−1,1,1\]: for the fourth person the third one has the same age, not a smaller one.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab01/h.py)

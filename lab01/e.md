@@ -57,3 +57,5 @@ Print the prime factors of n in non-decreasing order, separated by single spaces
 In the first example 60\=2⋅2⋅3⋅5, and in the second one 210\=2⋅3⋅5⋅7.
 
 In the third example n is a prime number, so its factorization consists of n itself.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab01/e.py)

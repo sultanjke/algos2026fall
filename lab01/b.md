@@ -45,3 +45,5 @@ Print a single integer — the value of anmodm.
 In the first example 210\=1024, and 1024mod109\=1024.
 
 In the second example m\=1. Every integer is divisible by 1, so the remainder is 0 — this holds for a0\=1 as well.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab01/b.py)

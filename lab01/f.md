@@ -62,3 +62,5 @@ In the first example `abc##` becomes `a`, and `a#b#a` also becomes `a`, so the a
 In the second example `ab#c` becomes `ac` and `ad#c` becomes `ac`.
 
 In the third example `a#c` becomes `c`, while `bb##` becomes the empty text, so the answer is `No`.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab01/f.py)
