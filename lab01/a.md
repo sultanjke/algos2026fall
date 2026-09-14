@@ -45,3 +45,7 @@ Print a single integer — the greatest common divisor of a and b.
 In the first example both numbers are prime, so their only common divisor is 1.
 
 In the second example 12\=2⋅2⋅3 and 18\=2⋅3⋅3, so the largest common divisor is 2⋅3\=6.
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q2/r3/a.cpp)
