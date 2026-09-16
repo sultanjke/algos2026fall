@@ -29,7 +29,7 @@ Head to the - [Syllabus](https://docs.google.com/document/d/1qcf2EJtcSoFkrl-JhMW
 | Lab № | Lecture Topic | Description | Deadline | GitHub URL | E-judge Platform |
 |------|---------------|-------------|------------|------------------|------------|
 | **1** | **L1. Complexity and Memory** | GCD, Binary Exponentiation; Sieve of Eratosthenes; Prime factorization; Stack, Queue and Deque | 13.09 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab01 | http://ejudge.kz/new-client?contest_id=201 |
-| **2** | **L2. Data Strucures** | Stack, Queue and Deque; Linked lists; Doubly-Linked lists | 20.09 23:59 | - | http://ejudge.kz/new-client?contest_id=202 |
+| **2** | **L2. Data Strucures** | Stack, Queue and Deque; Linked lists; Doubly-Linked lists | 20.09 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab02 | http://ejudge.kz/new-client?contest_id=202 |
 | **3** | **L3. Search Algorithms** | Binary search | 27.09 23:59 | - | http://ejudge.kz/new-client?contest_id=203 |
 | **4** | **L4. Tree Structures** | Binary search tree | 4.10 23:59 | - | http://ejudge.kz/new-client?contest_id=204 |
 | **5** | **L5. Priority Structures** | Priority queues, Heap | 11.10 23:59 | - | http://ejudge.kz/new-client?contest_id=205 |
