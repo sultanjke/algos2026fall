@@ -62,3 +62,5 @@ In the first example n\=5, so the runner to remove is the one with number ⌊5/2
 In the second example n\=4 and ⌊4/2⌋\=2, so the value 3 is removed. Note that for an even length the node to remove is the **second** of the two middle ones.
 
 In the third example the scoreboard holds a single runner, who is removed, and the output is empty.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab02/e.py)

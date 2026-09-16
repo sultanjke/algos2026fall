@@ -55,3 +55,5 @@ the dust another one bites
 In the first example N\=5 and K\=2: the first two words, “the” and “show”, move to the end.
 
 In the second example K\=3, so “another one bites” moves to the end and the poem starts with “the dust”.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab02/g.py)

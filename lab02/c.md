@@ -80,3 +80,5 @@ In the first example “Dana” occupies positions 2,3,4, so two of the three re
 In the second example there is nothing to remove.
 
 In the third example the two copies of “wow” stand next to each other, so one of them is dropped.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab02/c.py)

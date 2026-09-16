@@ -62,3 +62,5 @@ In the first example the two lists interleave completely.
 In the second example the first list is empty, so the answer is the second list unchanged. Watch this case: a solution that starts by reading a→val without first checking that the list is non-empty will crash here.
 
 In the third example both lists are empty and the output is empty.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab02/f.py)

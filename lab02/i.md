@@ -93,3 +93,5 @@ Let us follow the first example step by step:
 -   `front` — the list is empty, print `error`;
 
 -   `exit` — print `goodbye`.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab02/i.py)

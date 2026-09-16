@@ -34,3 +34,5 @@ Print the values that are left in the list after every second one has been delet
 ### Notes
 
 In the example the records at positions 2 and 4 — the values 2 and 4 — came from the second thread and are deleted. The values 1, 3 and 5 are left.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab02/b.py)

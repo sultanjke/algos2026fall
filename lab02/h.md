@@ -62,3 +62,5 @@ In the first example the best run is the whole chronicle: 1+2−1+4+5\=11.
 In the second example every day is bad, so the best you can do is take a single day: −1. Note that the run must be non-empty — the answer is never 0 here.
 
 In the third example the best run is 5+3+9−5+10+10\=32.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab02/h.py)

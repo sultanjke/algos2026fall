@@ -49,3 +49,5 @@ Print n integers separated by single spaces — the identifiers of the songs fro
 In the first example the list 1→2→3→4→5 becomes 5→4→3→2→1.
 
 In the second example the playlist holds a single song, so reversing it changes nothing.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab02/d.py)

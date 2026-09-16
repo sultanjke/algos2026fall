@@ -173,3 +173,5 @@ _Just leave it to luck_
 1 2 3 4 0
 3 4 0 1 2
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab02/j.py)

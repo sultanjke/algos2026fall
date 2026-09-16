@@ -62,3 +62,5 @@ In the first test case the stream is a,a,b,c:
 -   after “c” the unique letters are b and c, and b came first — the answer is b.
 
 In the second test case the stream is a,d,b,c,a,a, and the answers are a, a, a, a, d, d.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab02/a.py)
