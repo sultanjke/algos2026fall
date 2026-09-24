@@ -1,26 +1,24 @@
+input = open(0).readline
 n = int(input())
-powers = list(map(int, input().split()))
-powers.sort()
+counts = [0] * 1001
 
-prefix = [0]
-for power in powers:
-    prefix.append(prefix[-1] + power)
+for power in map(int, input().split()):
+    counts[power] += 1
+
+results = []
+count = 0
+total = 0
+
+for power in range(1001):
+    count += counts[power]
+    total += power * counts[power]
+    results.append(f"{count} {total}")
 
 p = int(input())
 answers = []
 
 for round_number in range(p):
     power = int(input())
-    left = 0
-    right = n
-
-    while left < right:
-        middle = (left + right) // 2
-        if powers[middle] <= power:
-            left = middle + 1
-        else:
-            right = middle
-
-    answers.append(f"{left} {prefix[left]}")
+    answers.append(results[power])
 
 print("\n".join(answers))
