@@ -1,6 +1,6 @@
 ### Problem D: Win me if you can!
 
-Mark is going to fight for Fight Club. There were N competitors with powers. There will be P rounds to fight and in each round Mark’s power will be changed. With power M, Mark can kill all the competitors whose power is equal to or less than his. Round by round, all the competitors who are dead in the previous round will be reborn. Such that in each round there will be N competitors to fight. As Mark is tired, please, help him to count the number of competitors that he can win in each round and the total sum of their powers.
+Mark is going to fight for Fight Club. There were N competitors with powers. There will be P rounds to fight and in each round Mark’s power will be changed. With power M, Mark can kill all the competitors whose power is equal to or less than his.  Round by round, all the competitors who are dead in the previous round will be reborn. Such that in each round there will be N competitors to fight. As Mark is tired, please, help him to count the number of competitors that he can win in each round and the total sum of their powers.
 
 ### Input format
 
@@ -28,3 +28,5 @@ On each of the P lines print two integers — how many competitors Mark beats in
 3 5
 6 26
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab03/d.py)

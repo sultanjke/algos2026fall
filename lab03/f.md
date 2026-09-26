@@ -64,3 +64,5 @@ In the first example there are four bags with 3, 6, 7 and 11 bars and the Sherif
 In the second example there are five bags and exactly five hours, so Robin gets one hour per bag and has to empty the largest bag in a single hour: the answer is 30.
 
 In the third example he has one spare hour, which is enough to split the largest bag over two hours, and the answer drops to 23.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab03/f.py)

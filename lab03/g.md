@@ -76,3 +76,5 @@ In the third example four pieces are needed. A length of 5 would give only three
 Group 1 (40 points): n≤1000.
 
 Group 2 (60 points): no additional constraints.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab03/g.py)

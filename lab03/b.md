@@ -47,3 +47,5 @@ Python — `a.sort()`
 Java — `Arrays.sort(a);` (package `java.util`)
 
 Do not forget that both segments are closed: the elements equal to r1 or r2 are counted too, and the elements that fall into both segments are counted only once.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab03/b.py)

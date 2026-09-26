@@ -57,3 +57,5 @@ In order to quickly know sum of subarray we can calculate prefix sums. For examp
 Group 1 (40 points) and group 2 (52 points): random and adversarial tests.
 
 Group 3 (8 points): corner cases (k\=0, answer equal to 1, answer equal to n).
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab03/h.py)

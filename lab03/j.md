@@ -61,3 +61,5 @@ Print one integer — the minimum length of the side of the square paddock such 
 ### Notes
 
 In the first example a square with side 9 covers 7 pastures completely, which is exactly what Jonathan needs. A square with side 8 covers only 6 of them.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab03/j.py)

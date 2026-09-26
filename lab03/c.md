@@ -57,3 +57,5 @@ In the second sample lines \[1, 5\], \[6, 12\], \[13, 18\] belong to the first, 
 **Hint**: Think about inplementing binary search function to solve this problem.
 
 **Hint**: Build a new array P, where Pi is the line at which ith block ends. You can notice, that this array is sorted.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab03/c.py)

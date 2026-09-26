@@ -69,3 +69,5 @@ Group 1 (20 points): n≤100.
 Group 2 (30 points): n≤1000.
 
 Group 3 (50 points): no additional constraints.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab03/i.py)

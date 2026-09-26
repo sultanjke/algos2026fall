@@ -117,3 +117,5 @@ Group 1 (40 points): small arrays.
 Group 2 (40 points): larger arrays.
 
 Group 3 (20 points): the smallest array 1×1 and the largest array 800×800.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab03/k.py)

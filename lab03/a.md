@@ -93,3 +93,5 @@ Yes
 In the first example x\=1 is the very first element of the array, so the answer is `Yes`.
 
 In the third example x\=7 is greater than every element, so the answer is `No`.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab03/a.py)
