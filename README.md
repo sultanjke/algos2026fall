@@ -46,7 +46,7 @@ Head to the - [Syllabus](https://docs.google.com/document/d/1qcf2EJtcSoFkrl-JhMW
 
 ## Tools and Technologies
 
-- Python 3.x / Javac - Java JDK 17.x / g++ - GCC 13.1 C++ 17
+- Python 3.x **(main)** / Javac - Java JDK 17.x / g++ - GCC 13.1 C++ 17
 - VS Code (recommended)
 
 ---
