@@ -1,4 +1,4 @@
-## Lab 02
+## Lab 03
 
 - [Problem A](https://github.com/sultanjke/algos2026fall/blob/main/lab03/a.md)
 - [Problem B](https://github.com/sultanjke/algos2026fall/blob/main/lab03/b.md)
