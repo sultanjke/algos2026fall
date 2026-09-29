@@ -37,4 +37,6 @@ In a single line print n integers — the new keys in increasing order, separate
 
 ### Notes
 
-NOTE: Solve with **BST**! ![image](https://ejudge.kz/new-client?SID=f3fb9c64ddc021b2&prob_id=8&action=194&file=1.png)
+NOTE: Solve with **BST**!
+
+<img width="600" height="215" alt="a" src="assets/h.jpg" />
