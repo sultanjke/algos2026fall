@@ -4,7 +4,7 @@ You are going to hike in the mountains. You have written directions (left or rig
 
 The path is presented in the form of "RRLLRLR", which means to reach the peak you need to turn right at the beginning, then right again, then left, left, right, left, right. Peak located after last turn and it is possible that it does not exist. You are given all the paths in the mountains that are available in the form of a Binary Search Tree and the paths to the peaks that are written on a piece of paper. You need to tell which of the paths written on the piece of paper is available.
 
-<img width="600" height="215" alt="a" src="assets/lab04/a.jpg" />
+<img width="600" height="215" alt="a" src="main/assets/lab04/a.jpg" />
 
 ### Input format
 
