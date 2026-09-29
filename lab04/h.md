@@ -39,4 +39,4 @@ In a single line print n integers — the new keys in increasing order, separate
 
 NOTE: Solve with **BST**!
 
-<img width="600" height="215" alt="a" src="assets/h.jpg" />
+<img width="600" height="215" alt="a" src="assets/lab04/h.jpg" />

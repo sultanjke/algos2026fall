@@ -46,6 +46,6 @@ A vertex is called a leaf if it has no children.
 
 In the second sample the BST looks like this.
 
-<img width="600" height="215" alt="a" src="assets/i.jpg" />
+<img width="600" height="215" alt="a" src="assets/lab04/i.jpg" />
 
 The answer is 2 (vertices 2 and 5).

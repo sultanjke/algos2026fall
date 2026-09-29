@@ -34,4 +34,4 @@ Print the numbers of the gifts of the subtree of k in **pre-order**: first the n
 
 ### Notes
 
-<img width="600" height="215" alt="a" src="assets/c.jpg" />
+<img width="600" height="215" alt="a" src="assets/lab04/c.jpg" />
