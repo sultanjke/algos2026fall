@@ -48,6 +48,6 @@ Level of root is 0, and level of each non-root vertex is (level of it’s parent
 
 In second testcase, BST looks like this.
 
-<img width="600" height="215" alt="a" src="assets/lab04/d.jpg" />
+<img width="600" height="215" alt="a" src="https://github.com/sultanjke/algos2026fall/blob/main/assets/lab04/d.jpg" />
 
 There are 4 levels, and sum for each level is 4, 3 + 5, 1, 2.
