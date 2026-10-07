@@ -1,6 +1,6 @@
 ## Submit a solution for E-K-th sum
 
-|  |  |
+| --- | --- |
 | **Time limit:** | 1 s |
 | **Real time limit:** | 5 s |
 | **Memory limit:** | 256M |
