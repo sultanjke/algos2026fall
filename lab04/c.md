@@ -35,3 +35,5 @@ Print the numbers of the gifts of the subtree of k in **pre-order**: first the n
 ### Notes
 
 <img width="300" height="215" alt="a" src="https://github.com/sultanjke/algos2026fall/blob/main/assets/lab04/c.jpg" />
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab04/c.py)

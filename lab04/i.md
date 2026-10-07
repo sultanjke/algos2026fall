@@ -49,3 +49,5 @@ In the second sample the BST looks like this.
 <img width="300" height="215" alt="a" src="https://github.com/sultanjke/algos2026fall/blob/main/assets/lab04/i.jpg" />
 
 The answer is 2 (vertices 2 and 5).
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab04/i.py)

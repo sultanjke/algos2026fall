@@ -66,3 +66,5 @@ Print one single number — the maximum distance between any two vertices of the
 ### Notes
 
 In the first test, the answer is the distance between nodes 1 and 8.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab04/g.py)

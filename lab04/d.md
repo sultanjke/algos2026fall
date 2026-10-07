@@ -51,3 +51,5 @@ In second testcase, BST looks like this.
 <img width="600" height="215" alt="a" src="https://github.com/sultanjke/algos2026fall/blob/main/assets/lab04/d.jpg" />
 
 There are 4 levels, and sum for each level is 4, 3 + 5, 1, 2.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab04/d.py)

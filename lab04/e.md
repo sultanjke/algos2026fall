@@ -57,3 +57,5 @@ Print one integer maximum width.
 In the first sample the widest level is the third one, it holds 3 vertices (5, 6, 4).
 
 In the second sample the widest level is the third one as well, it holds 2 vertices (3, 4).
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab04/e.py)

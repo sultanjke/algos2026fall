@@ -43,3 +43,5 @@ If K\>N, print −1.
 ```
 14
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab04/j.py)

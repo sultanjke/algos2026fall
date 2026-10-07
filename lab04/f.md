@@ -64,3 +64,5 @@ In the first sample the insertion order 2,3,1 makes 2 the root with sons 1 and 3
 In the second sample the values 1,2,3 are inserted in increasing order, so the tree is a chain and no node has two sons — the answer is 0.
 
 In the third sample the resulting tree contains 5 such triangles.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab04/f.py)

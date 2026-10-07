@@ -31,3 +31,5 @@ Print the size of the subtree of the given node.
 ```
 7
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab04/b.py)
