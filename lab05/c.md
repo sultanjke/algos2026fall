@@ -53,3 +53,5 @@ Print one integer - the maximum amount of money the stadium can earn.
 ### Notes
 
 The answer may exceed the maximum value of a 32\-bit integer — use 64\-bit integers.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab05/c.py)

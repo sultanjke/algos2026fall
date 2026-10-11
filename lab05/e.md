@@ -80,3 +80,5 @@ Use long long type for the sum of elements.
 Since k is fixed, you don’t need to store all numbers, only k largest elements.
 
 The answer can be as large as 105⋅109\=1014, so a 32\-bit integer is not enough.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab05/e.py)

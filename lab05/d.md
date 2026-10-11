@@ -57,3 +57,5 @@ Print the number of operations that are needed to make all the densities ⩾m. I
 ### Notes
 
 The density of a combined mixture can reach about 3⋅109, which does not fit into a 32\-bit integer type — use 64\-bit integers.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab05/d.py)

@@ -57,3 +57,5 @@ Explanation for the first test case:
 \[14, 9\] –> Finally, merge the remaining two arrays that will cost 23.
 
 Therefore, the total cost for merging all arrays is 8 + 14 + 23 = 45.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab05/a.py)
