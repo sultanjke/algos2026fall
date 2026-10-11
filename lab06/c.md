@@ -34,3 +34,5 @@ If several points are equal, each neighbouring pair of them is printed separatel
 ```
 -20 30
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab06/c.py)

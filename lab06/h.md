@@ -43,3 +43,5 @@ c
 ### Notes
 
 Size of array should be more than 1;
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab06/h.py)

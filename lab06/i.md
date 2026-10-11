@@ -35,3 +35,5 @@ beijklnopqrtuvwy
 ### Notes
 
 Try to sort the letters yourself instead of calling the library sort — at the defence you will be asked to do exactly that.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab06/i.py)

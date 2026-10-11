@@ -63,3 +63,5 @@ A number that occurs x times in the first array and y times in the second one mu
 
 ```
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab06/b.py)

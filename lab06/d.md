@@ -55,3 +55,5 @@ Print sorted dates in the same format as the input.
 01-12-1999
 12-11-2002
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab06/d.py)

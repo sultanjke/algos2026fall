@@ -55,3 +55,5 @@ Kadyrov Asman 4.000
 | D+ | 1.50 |
 | D | 1.00 |
 | F | 0 |
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab06/f.py)

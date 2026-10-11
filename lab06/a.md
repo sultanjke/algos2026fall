@@ -38,3 +38,5 @@ aeiouubccddfffffggghhkllmnnnqqrsvvwwxxxyz
 ### Notes
 
 Vowel letters are a, e, i, o and u.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab06/a.py)

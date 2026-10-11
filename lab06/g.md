@@ -66,3 +66,5 @@ Sens3i Danya
 ### Notes
 
 In the first test nickname "Aslan" was changed to nickname "Nurbol". Then this nickname was changed to "HackMachine". As a result, the original nickname "Aslan" became "HackMachine".
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab06/g.py)

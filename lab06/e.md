@@ -42,3 +42,5 @@ Print this matrix after sorting.
 4 5 6
 1 2 3
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab06/e.py)
