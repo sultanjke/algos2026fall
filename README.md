@@ -32,8 +32,8 @@ Head to the - [Syllabus](https://docs.google.com/document/d/1qcf2EJtcSoFkrl-JhMW
 | **2** | **L2. Data Strucures** | Stack, Queue and Deque; Linked lists; Doubly-Linked lists | 20.09 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab02 | http://ejudge.kz/new-client?contest_id=202 |
 | **3** | **L3. Search Algorithms** | Binary search | 27.09 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab03 | http://ejudge.kz/new-client?contest_id=203 |
 | **4** | **L4. Tree Structures** | Binary search tree | 4.10 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab04 | http://ejudge.kz/new-client?contest_id=204 |
-| **5** | **L5. Priority Structures** | Priority queues, Heap | 11.10 23:59 | - | http://ejudge.kz/new-client?contest_id=205 |
-| **6** | **L6. Sorting Algorithms I** | Heap Sort and Quick Sort | 18.10 23:59 | - | http://ejudge.kz/new-client?contest_id=206 |
+| **5** | **L5. Priority Structures** | Priority queues, Heap | 11.10 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab05 | http://ejudge.kz/new-client?contest_id=205 |
+| **6** | **L6. Sorting Algorithms I** | Heap Sort and Quick Sort | 18.10 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab06 | http://ejudge.kz/new-client?contest_id=206 |
 | **7** | **L7. Sorting Algorithms II** | Merge Sort | 25.10 23:59 | - | http://ejudge.kz/new-client?contest_id=207 |
 | **8** | **L8. Hash Tables** | Hash Tables; Rabin-Karp algorithm based on hash calculation **(Midterm Week)** | 1.11 23:59 | - | http://ejudge.kz/new-client?contest_id=208 |
 | **9** | **L9. String Algorithms** | Knuth-Morris-Pratt algorithm | 8.11 23:59 | - | http://ejudge.kz/new-client?contest_id=209 |
