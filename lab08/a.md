@@ -67,3 +67,5 @@ In first example, hash of string "111" was calculated as follows:
 h\=((((49−47)×110)mod(1e9+7)+((49−47)×111)mod(1e9+7))mod(1e9+7)+ +((49−47)×112)mod(1e9+7))mod(1e9+7)\=2+22+242\=266
 
 Note, that the resulting number should be positive.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab08/a.py)

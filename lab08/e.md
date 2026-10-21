@@ -47,3 +47,5 @@ abcde
 ### Notes
 
 You can solve this problem using hashes. Naive O(N3) solutions must fail.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab08/e.py)

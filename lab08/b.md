@@ -71,3 +71,5 @@ ab
 The strings are long, so comparing t with every position directly is too slow. Compute the hashes of all substrings of the needed length with the Rabin–Karp technique (prefix hashes and one precomputed power table) and compare hashes instead of strings.
 
 A single hash can collide on adversarial data; a pair of hashes with two different moduli is the usual remedy.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab08/b.py)

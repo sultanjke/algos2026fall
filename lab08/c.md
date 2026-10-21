@@ -57,3 +57,5 @@ haha
 In the first test case, the frequency of pattern aba is 2, and of pattern bac is 1.
 
 In the second test case, the frequency of patterns alpha and haha is 2, and all other patterns has frequency not exceeding 1.
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab08/c.py)

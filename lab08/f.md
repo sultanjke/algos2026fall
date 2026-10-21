@@ -45,3 +45,5 @@ abracadabra
 1
 2
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab08/f.py)

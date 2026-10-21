@@ -53,3 +53,5 @@ world
 ### Notes
 
 Use larger integer data structures (like “long long” In C++).
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab08/d.py)
