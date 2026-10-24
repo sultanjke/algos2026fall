@@ -34,12 +34,12 @@ Head to the - [Syllabus](https://docs.google.com/document/d/1qcf2EJtcSoFkrl-JhMW
 | **4** | **L4. Tree Structures** | Binary search tree | 4.10 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab04 | http://ejudge.kz/new-client?contest_id=204 |
 | **5** | **L5. Priority Structures** | Priority queues, Heap | 11.10 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab05 | http://ejudge.kz/new-client?contest_id=205 |
 | **6** | **L6. Sorting Algorithms I** | Heap Sort and Quick Sort | 18.10 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab06 | http://ejudge.kz/new-client?contest_id=206 |
-| **7** | **L7. Sorting Algorithms II** | Merge Sort | 25.10 23:59 | - | http://ejudge.kz/new-client?contest_id=207 |
-| **8** | **L8. Hash Tables** | Hash Tables; Rabin-Karp algorithm based on hash calculation **(Midterm Week)** | 1.11 23:59 | - | http://ejudge.kz/new-client?contest_id=208 |
-| **9** | **L9. String Algorithms** | Knuth-Morris-Pratt algorithm | 8.11 23:59 | - | http://ejudge.kz/new-client?contest_id=209 |
-| **10** | **L10. Graph Representation and BFS** | Adjacency list and matrix; Edge List; BFS | 15.11 23:59 | - | http://ejudge.kz/new-client?contest_id=210 |
-| **11** | **L11. Graph Traversal and Sorting** | DFS and Topological Sort **(Endterm Week)** | 22.11 23:59 | - | http://ejudge.kz/new-client?contest_id=211 |
-| **12** | **L12. Spanning Tree Algorithms** | Kruskal and prim algorithms | 29.11 23:59 | - | http://ejudge.kz/new-client?contest_id=212 |
+| **7** | **L7. Sorting Algorithms II** | Merge Sort | 25.10 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab07 | http://ejudge.kz/new-client?contest_id=207 |
+| **8** | **L8. Hash Tables** | Hash Tables; Rabin-Karp algorithm based on hash calculation **(Midterm Week)** | 1.11 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab08 | http://ejudge.kz/new-client?contest_id=208 |
+| **9** | **L9. String Algorithms** | Knuth-Morris-Pratt algorithm | 8.11 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab09 | http://ejudge.kz/new-client?contest_id=209 |
+| **10** | **L10. Graph Representation and BFS** | Adjacency list and matrix; Edge List; BFS | 15.11 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab10 | http://ejudge.kz/new-client?contest_id=210 |
+| **11** | **L11. Graph Traversal and Sorting** | DFS and Topological Sort **(Endterm Week)** | 22.11 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab11 | http://ejudge.kz/new-client?contest_id=211 |
+| **12** | **L12. Spanning Tree Algorithms** | Kruskal and prim algorithms | 29.11 23:59 | https://github.com/sultanjke/algos2026fall/tree/main/lab12 | http://ejudge.kz/new-client?contest_id=212 |
 | **13** | **L13. Shortest Path Algorithms** | Dijkstra, Floyd-Warshall and Bellman-Ford algorithms | N/A | N/A | N/A |
 
 ---
