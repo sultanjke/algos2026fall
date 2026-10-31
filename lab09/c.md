@@ -47,3 +47,5 @@ decba
 ```
 -1
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab09/c.py)

@@ -56,3 +56,5 @@ Moscow
 Yacuiba
 Yurga
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab09/d.py)
