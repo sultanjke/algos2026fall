@@ -32,3 +32,5 @@ both 5 7 10
 ```
 67
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab11/c.py)

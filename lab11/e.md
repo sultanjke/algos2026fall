@@ -66,3 +66,5 @@ Examples
 1
 0
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab11/e.py)
