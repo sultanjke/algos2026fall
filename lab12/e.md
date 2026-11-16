@@ -30,3 +30,5 @@ YES
 4
 3 2 1 3
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab12/e.py)

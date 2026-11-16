@@ -72,3 +72,5 @@ Examples
 ```
 6
 ```
+
+[View solution](https://github.com/sultanjke/algos2026fall/blob/main/lab12/b.py)
